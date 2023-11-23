@@ -1,0 +1,8 @@
+Biseccion
+Newton-Raphson
+Sistemas de ecuaciones lineales(3x3(4x4)(5x5) Gauss Seidel
+Interpolaciones de Newton
+Ajuste Cuadratico
+Derivadas Centradas (De la primera a la tercera)
+Simpson 3/8
+Runge Kutta 3

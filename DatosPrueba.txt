@@ -1,0 +1,50 @@
+BISECCION
+
+Funcion = exp(x)-log(x)-5
+Criterio de parada = 0.9
+xi = 1
+xs = 2
+
+NEWTON-RAPHSON
+
+Funcion = exp(x)-log(x)-5
+xo = 1
+Criterio de parada = 0.0000007
+
+SISTEMAS DE ECUACIONES LINEALES
+
+Valores de A = 2 -1 4 1 -1; -1 3 -2 -1 2; 5 1 3 -4 1; 3 -2 -2 -2 3; -4 -1 -5 3 -4
+Valores de B = 7; 1; 33; 24; -49
+X0 = 0; 0; 0; 0; 0
+Tolerancia = 9
+
+INTERPOLACION DE NEWTON
+
+Xi: 1,1.3,1.6,1.9,2.2
+Yi: 0.7651977,0.6200860,0.4554022,0.2818186,0.1103623
+
+AJUSTE CUADRATICO
+
+Valores de x = 1,2,3,4,5,6
+Valores de y = 1.5,5,11.25,20,30.5,40
+
+DERIVADAS CENTRADAS
+
+Funcion = exp(2*sqrt(x))*sin(3*x)
+x = 2
+h = 0.12
+
+SIMPSON 3/8
+
+Funcion = exp(sqrt(x))*log(x)
+n = 9
+a = 1
+b = 3
+
+RUNGE KUTTA 3
+
+Funcion = y/x+x/(1+x^2)
+x = -1
+y = 0.7853
+h = 0.1
+n = 3
